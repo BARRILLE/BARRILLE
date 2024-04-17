@@ -3,10 +3,7 @@
 
 <p align="center">"My name is Barrille, and I'm dedicated to continuous learning. Currently, my focus is on studying and acquiring new knowledge. I am committed to absorbing as much as I can to grow personally and professionally. Pursuing learning is my primary mission at the moment.".</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Barril&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Barrille&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
